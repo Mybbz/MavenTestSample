@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.maven.sample1.maven_sample1.HelloWorldTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 sec
